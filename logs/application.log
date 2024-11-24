@@ -1,0 +1,5 @@
+11:36:29.555 [main] INFO  com.example.App - Application started.
+11:36:29.557 [main] INFO  com.example.App - This is an information message.
+11:36:29.557 [main] ERROR com.example.App - This is an error message.
+11:36:29.557 [main] WARN  com.example.App - This is a warning message.
+11:36:29.557 [main] INFO  com.example.App - Application ended
